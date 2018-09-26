@@ -3,6 +3,3 @@ applications:
 - name: "ipcrmdemo-abc"
   memory: 1024M
   instances: 1
-  buildpack: https://github.com/cloudfoundry/java-buildpack.git
-  env:
-    ATOMIST_TEAM: A2MO4H2RG
